@@ -18,27 +18,53 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Graduate Research And Teaching Assistant"
+  company = "University of Lethbridge"
+  company_url = "https://www.uleth.ca/"
+  location = "Alberta, Canada"
+  date_start = "2017-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching assistantship (marker/ instructor)
+  * Research assistantship
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Lecturer"
+  company = "Military Institute of Science and Technology"
+  company_url = "https://mist.ac.bd/"
+  location = "Bangladesh"
+  date_start = "2011-06-01"
+  date_end = "2017-08-31"
+  description = """Taught C/C++ programming language, Artificial Intelligence."""
+
+[[experience]]
+  title = "Guest Lecturer"
+  company = "Bangladesh University of Professionals"
+  company_url = "https://bup.edu.bd/"
+  location = "Bangladesh"
+  date_start = "2017-01-01"
+  date_end = "2017-07-31"
+  description = """Taught Fundamental of Computers and introduction to programming language."""
+
+[[experience]]
+  title = "Guest Lecturer"
+  company = "Bangladesh University of Business & Technology - BUBT"
+  company_url = "https://www.bubt.edu.bd/"
+  location = "Bangladesh"
+  date_start = "2016-05-01"
+  date_end = "2017-04-30"
+  description = """Taught Compiler constructions."""
+
+[[experience]]
+  title = "Guest Lecturer"
+  company = "Ahsanullah University of Science & Technology"
+  company_url = "http://www.aust.edu/"
+  location = "Bangladesh"
+  date_start = "2014-01-01"
+  date_end = "2014-06-30"
+  description = """Taught Digital electronics and pulse techniques."""
 
 +++
