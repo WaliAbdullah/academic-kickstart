@@ -15,11 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = cpp
   icon_pack = "fab"
   name = "C/C++"
   description = "100%"
 
 [[feature]]
+  icon=octave
   icon_pack = "fas"
   name = "GNU Octave"
   description = "100%"  
@@ -35,13 +37,15 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
+  icon=python
   icon_pack = "fas"
   name = "Python"
   description = "70%"
   
   [[feature]]
+  icon=mysql
   icon_pack = "fas"
-  name = "SQL"
+  name = "MySQL"
   description = "70%"
 
 
