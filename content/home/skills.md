@@ -15,22 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "computer-classic"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "C/C++"
+  description = "100%"
+
 [[feature]]
-  icon = "chart-line"
+  icon = "octave"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "GNU Octave"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
+
+ [[feature]]
+  icon = "openMP"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "OpenMP"
+  description = "80%"
+
+ [[feature]]
+  icon = "cuda"
+  icon_pack = "fas"
+  name = "CUDA"
+  description = "80%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "70%"
+  
+  [[feature]]
+  icon = "sql"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "70%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
