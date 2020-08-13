@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wali Mohammad Abdullah
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Lethbridge
+  url: "https://www.uleth.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include numerical optimization and its applications.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- The design of efficient algorithms for sparse matrix problems
+- High-performance computing
+- Combinatorial optimization problems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Information and Communication Technology
+    institution: IICT, Bangladesh University of Engineering and Technology (BUET), Bangladesh
+  - course: B.Sc. in Computer Science and Engineering
+    institution: Military Institute of Science and Technology (MIST), Bangladesh
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/wali-mohammad-abdullah/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/WaliAbdullah
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "w.abdullah@uleth.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,7 +58,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wali Mohammad Abdullah is a Ph.D student in the Mathematics & Computer Science department of University of Lethbridge, Canada. His research interests include numerical optimization and its applications. He worked as an instructor of the department of Computer Science & Engineering at MIST (from June 2011 to August 2017).
