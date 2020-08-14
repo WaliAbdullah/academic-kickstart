@@ -18,15 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[item]]
-#   organization = "edX"
-#   organization_url = "https://www.edx.org"
-#   title = "Blockchain Fundamentals"
-#   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#   certificate_url = "https://www.edx.org"
-#   date_start = "2018-03-01"
-#   date_end = ""
-#   description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+ organization = "Mitacs Inc. and E.M. Sciences Ltd"
+ organization_url = "https://www.mitacs.ca/en"
+ title = "Foundation of Project Management"
+ # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+ # certificate_url = "https://www.edx.org"
+ date_start = "2020-08-04"
+ date_end = "2020-08-05"
+ description = "The Mitacs Foundations of Project Management course offered as a part of $$Math^{Industry}$$ Workshop by PIMS"
   
 
 +++
