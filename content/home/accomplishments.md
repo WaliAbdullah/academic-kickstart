@@ -14,6 +14,6 @@ subtitle = ""
  title = "Foundation of Project Management"
  date_start = "2020-08-04"
  date_end = "2020-08-05"
- description = "The Mitacs Foundations of Project Management course offered as a part of $$Math^{Industry}$$ Workshop by PIMS"  
+ description = "The Mitacs Foundations of Project Management course offered as a part of Math^Industry Workshop by PIMS"  
 
 +++
