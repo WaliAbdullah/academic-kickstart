@@ -8,16 +8,6 @@ weight = 50  # Order that this section will appear.
 title = "Accomplish&shy;ments"
 subtitle = ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-# date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
  organization = "Mitacs Inc. and E.M. Sciences Ltd"
  organization_url = "https://www.mitacs.ca/en"
